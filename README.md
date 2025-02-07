@@ -1,2 +1,2 @@
 # BMI-Calculator
-Javascript project
+Used HTML, CSS and Javascript for this project
